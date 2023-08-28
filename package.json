@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-sunflowers/",
+    "build": "vite build --base=/html_css-bcon_58-team-project-sunflowers/",
     "preview": "vite preview"
   },
   "devDependencies": {
